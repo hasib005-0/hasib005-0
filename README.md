@@ -1,4 +1,7 @@
-# Hi 👋, I'm Md. Hasibul Islam  
+<p align="center">
+  <img src="./Gemini_Generated_Image_rrx5r6rrx5r6rrx5.jpeg" alt="GitHub Profile Banner" width="100%">
+</p>
+Hi 👋, I'm Md. Hasibul Islam  
 I build things with JavaScript, React, and Node.js
 
 ---
